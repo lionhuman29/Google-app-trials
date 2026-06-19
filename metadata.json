@@ -1,0 +1,6 @@
+{
+  "name": "InstaRadar",
+  "description": "Automatically detect and find nearby Instagram ID profiles via Bluetooth BLE and simulation radar grids.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
